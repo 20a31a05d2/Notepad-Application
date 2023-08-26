@@ -11,8 +11,9 @@ Stage I: Launching Notepad
 ![Screenshot (179)](https://github.com/20a31a05d2/Notepad-Application/assets/109792829/798a5c66-bc98-4145-9c3c-359e8b1d3f93)
 
 Stage II: Writing Text into Notepad
-![Screenshot (180)](https://github.com/20a31a05d2/Notepad-Application/assets/109792829/ebe3ff2b-0110-4bbd-9093-5a7383c880a8)
+![Screenshot (183)](https://github.com/20a31a05d2/Notepad-Application/assets/109792829/e35cb5f3-9684-4b86-8393-78b38e9d0d4c)
+
 
 
 Stage III:Terminating Notepad
-![Screenshot (181)](https://github.com/20a31a05d2/Notepad-Application/assets/109792829/1d0f042a-7d26-413f-bafb-b1ba8e488b64)
+![Screenshot (182)](https://github.com/20a31a05d2/Notepad-Application/assets/109792829/e1f1f0cf-5966-4ed3-808f-f147198f8f21)
